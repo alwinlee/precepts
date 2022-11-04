@@ -184,7 +184,7 @@
     $info.="<table border=\"0\">";
     $info.="<tr><td style=\"width:45px;text-align:right;\">一、</td>";
     $info.="<td style=\"width:650px;text-align:left;\">";
-    $info.="日期：".$d."  <span>".$tm." 前報到完畢。 為敬重受戒故，請準時參加！</span>。";
+    $info.="日期：".$d."  <span>".$tm." 前報到完畢。 為敬重受戒故，請準時參加！</span>";
     $info.="</td></tr>";
 
     //$info.="<tr><td style=\"width:680px;height:4px;text-align:left;\">";
